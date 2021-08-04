@@ -7,7 +7,7 @@
 [![Latest Stable Version](https://img.shields.io/maven-central/v/com.qiniu/qiniu-java-sdk.svg)](http://search.maven.org/#search%7Cga%7C1%7Cg%3A%22com.qiniu%22%20AND%20a%3A%22qiniu-java-sdk%22)
 ## 安装
 
-下载 [the latest JAR][1] 或者 通过 Maven:
+下载 [the latest JAR][1] 或者 通过 Maven:  
 ```xml
 <dependency>
   <groupId>com.qiniu</groupId>
